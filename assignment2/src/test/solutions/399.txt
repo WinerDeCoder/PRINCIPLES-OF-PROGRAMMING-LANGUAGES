@@ -1,0 +1,1 @@
+Program([VarDecl(Id(poet), NumberType, None, StringLit(Xuan Dang den ben em, gio xuan tuyet voi ong mat troi)), FuncDecl(Id(poetry), [VarDecl(Id(poet), StringType, None, None)], Block([VarDecl(Id(Phuc_dep_trai), BoolType, None, BooleanLit(True)), VarDecl(Id(Phuc), StringType, None, StringLit( )), Return(BinaryOp(*, Id(Phuc), NumLit(9999999.0)))]))])

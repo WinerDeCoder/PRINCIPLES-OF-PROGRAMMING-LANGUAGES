@@ -1,0 +1,6 @@
+func main(bool a)
+        begin
+            a[4] <- i
+            return a+1
+        end
+        

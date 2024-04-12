@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [VarDecl(Id(a), NumberType, None, None)], Block([Return(NumLit(1.0))])), FuncDecl(Id(_vippro_), [], Block([AssignStmt(Id(x), CallExpr(Id(da_money_team), []))]))])

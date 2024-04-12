@@ -1,0 +1,7 @@
+func main(bool a)
+        begin
+            a[1] <- avcd[1,2]
+            return true
+            return false
+        end
+        

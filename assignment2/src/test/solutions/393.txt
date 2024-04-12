@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), StringType, None, StringLit(Hello World!)), VarDecl(Id(c), StringType, None, StringLit(My name is Phuc)), VarDecl(Id(b), StringType, None, StringLit(Nice to meet human)), VarDecl(Id(z), ArrayType([3.0], StringType), None, ArrayLit(Id(a), Id(b), Id(c))), FuncDecl(Id(main), [], Return(CallExpr(Id(writeString), [Id(z)])))])

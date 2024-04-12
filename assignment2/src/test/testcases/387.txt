@@ -1,0 +1,14 @@
+number pi <- 3.14
+
+func area_circle(number radius)
+begin
+number area <- radius * radius * pi
+return area
+end
+
+func main()
+begin
+number radius <- readNumber()
+writeNumber(area_circle(radius))
+end
+        

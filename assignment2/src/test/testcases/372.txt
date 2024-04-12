@@ -1,0 +1,2 @@
+func main(bool a) return a+1
+        

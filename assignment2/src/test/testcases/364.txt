@@ -1,0 +1,17 @@
+
+        func main(bool a)
+        begin
+            if (a[1]+6 > 2/1%2-1+1)
+            a <- a+ 1
+            elif ( 4 != 2 )
+            return b+1
+            elif (1==1) readString()
+            elif ( 2 <= a+true) writeNumber(a)
+            elif ( a[foo(10)] > _12do() ) readNumber()
+            elif ( not false ) readBool()
+            elif ( not true ) writeBool(true)
+            elif ( c ==ccc ) writeString("ss\t\r\f kkokok")
+            else return 1
+            return 0
+        end
+        

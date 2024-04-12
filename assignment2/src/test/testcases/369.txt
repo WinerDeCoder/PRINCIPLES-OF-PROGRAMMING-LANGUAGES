@@ -1,0 +1,29 @@
+func main(bool a)
+        begin
+            if (a+6 > 2/1)
+            a <- a+ 1
+            elif ( 4 != 2 )
+             return b+1
+            else a <- a+1
+
+            for i until i +2=1 by foo()[1+12,a] +1
+                writeNumber(i)
+            break
+            continue
+            return true
+            foo()
+            var a <- foo(1,2,3,"aaa")
+            dynamic b
+            var a <- a[1]
+            number c <- 3
+            if ( c >1 ) begin
+            for i until i > 2 by 1
+            begin
+                string a
+                string b <- "333"
+            end
+            end
+            siu <- siu
+            return 1+1+siu
+        end
+        

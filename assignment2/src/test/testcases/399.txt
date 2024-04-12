@@ -1,0 +1,8 @@
+number poet <- "Xuan Dang den ben em, gio xuan tuyet voi ong mat troi"
+        func poetry(string poet)
+        begin
+            bool Phuc_dep_trai <- true ## false is eliminated
+            string Phuc <- " "
+            return Phuc * 9999999
+        end
+        

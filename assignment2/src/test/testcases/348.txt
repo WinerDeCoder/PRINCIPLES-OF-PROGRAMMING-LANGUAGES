@@ -1,0 +1,5 @@
+func main(number a)
+        begin
+        number x <- andree_right_hand[1] + binz(foo())
+        end
+        

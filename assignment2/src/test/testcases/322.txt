@@ -1,0 +1,4 @@
+number acv_1[2] <- ["111",true]
+        string _111_ <- "aaa"
+        bool trollvn <- 1+1=1
+        

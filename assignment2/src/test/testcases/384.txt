@@ -1,0 +1,17 @@
+func _aa_12Ad(number _32ssd___s )
+begin
+continue
+for i until ((i >1) or (i<22) or (o<21))  by 1
+    continue
+if ((a >1) or (s <2))
+return 1
+
+elif (ss>2) break
+else a<-d
+wow(11111)
+doo(111)
+end
+
+string her <- "12133\r \f \b ww2~~!!#@$@+__S>D?A?>>   "
+func her() return sd[11,2,f(s0)]
+        

@@ -1,0 +1,6 @@
+func main(number a)
+        begin
+        var x <-1
+        return 1
+        end
+        

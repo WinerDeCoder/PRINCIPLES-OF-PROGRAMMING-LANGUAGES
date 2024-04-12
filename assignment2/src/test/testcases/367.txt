@@ -1,0 +1,17 @@
+func main(bool a)
+        begin
+            if (a+6 > 2/1)
+            a <- a+ 1
+            elif ( 4 != 2 )
+             return b+1
+            else a <- a+1
+
+            for i until i +2=1 by foo()[1+12,a] +1
+                writeNumber(i)
+            break
+            continue
+            return true
+            foo()
+            var a <- foo(1,2,3,"aaa")
+        end
+        

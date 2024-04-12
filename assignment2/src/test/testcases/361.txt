@@ -1,0 +1,7 @@
+func main(bool a)
+        begin
+            if (a+6 > 2/1)
+            a <- a+ 1
+            else return b+1
+        end
+        

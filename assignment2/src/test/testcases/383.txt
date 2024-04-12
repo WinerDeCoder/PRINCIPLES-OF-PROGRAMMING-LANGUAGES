@@ -1,0 +1,13 @@
+func _aa_12Ad(number _32ssd___s )
+begin
+continue
+for i until ((i >1) or (i<22) or (o<21))  by 1
+    continue
+if ((a >1) or (s <2))
+return 1
+
+
+elif (ss>2) break
+else a<-d
+end
+        

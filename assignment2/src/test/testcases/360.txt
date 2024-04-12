@@ -1,0 +1,6 @@
+func main(bool a)
+        begin
+            if (a >= 2+1) a <- a[1]
+            else return true
+        end
+        

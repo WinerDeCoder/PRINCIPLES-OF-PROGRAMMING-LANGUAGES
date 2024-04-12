@@ -1,0 +1,6 @@
+func main(bool a)
+        begin
+            a[1] <- ["123",fo(11)]
+            return a+1
+        end
+        

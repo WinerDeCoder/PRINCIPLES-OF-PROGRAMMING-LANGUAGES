@@ -1,0 +1,7 @@
+string a <- "Hello World!"
+string c <- "My name is Phuc"
+string b <- "Nice to meet human"
+string z[3] <- [a,b,c]
+func main()  return writeString(z)
+
+        

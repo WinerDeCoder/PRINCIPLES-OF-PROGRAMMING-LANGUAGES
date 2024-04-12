@@ -1,0 +1,11 @@
+func areDivisors(number num1, number num2) ###sssssssdf/r/n\n\r\d\g\c
+return ((num1 % num2 = 0) or (num2 % num1 = 0))
+func main()
+begin
+var num1 <- readNumber()  ##ddddd
+var num2 <- readNumber()  ##ssssss
+if (areDivisors(num1, num2)) writeString("Yes")
+else writeString("No")
+end  ##eeeeeeeeeeeeeeeee
+
+        

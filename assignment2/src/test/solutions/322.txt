@@ -1,0 +1,1 @@
+Program([VarDecl(Id(acv_1), ArrayType([2.0], NumberType), None, ArrayLit(StringLit(111), BooleanLit(True))), VarDecl(Id(_111_), StringType, None, StringLit(aaa)), VarDecl(Id(trollvn), BoolType, None, BinaryOp(=, BinaryOp(+, NumLit(1.0), NumLit(1.0)), NumLit(1.0)))])

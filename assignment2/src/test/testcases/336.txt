@@ -1,0 +1,6 @@
+func main(number a)
+        begin
+        return foo(4)
+        var x <- alo(123)
+        end
+        

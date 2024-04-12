@@ -1,0 +1,2 @@
+string c <- "Hen em vao motj ngay mua thu nang dep, \n toi tang em mot bo hoa tuoi tham, \n trao em mot nu hon nong nan"
+        

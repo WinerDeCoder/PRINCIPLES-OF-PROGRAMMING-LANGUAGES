@@ -1,0 +1,8 @@
+func main()
+        begin
+            var x <- 5
+            var y <- 10
+            var z <- 15
+            var result <- multiplyTwoNumbers(addThreeNumbers(x, y, z), addThreeNumbers(y, z, x))
+            writeNumber(result)
+        end

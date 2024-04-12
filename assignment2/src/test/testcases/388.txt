@@ -1,0 +1,31 @@
+number pi <- 3.14
+
+func area_circle(number radius)
+begin
+number area <- radius * radius * pi
+return area
+end
+
+func swapnumber(number a, number b)
+begin
+number c
+number c <- a
+a<-b
+b<-c
+number result[2] <- [a,b]
+return result
+end
+
+
+func main()
+begin
+number radius <- readNumber()
+writeNumber(area_circle(radius))
+number a <-3
+number b <-6
+number result[2] <- swapnumber(a,b)
+writeNumber(result[0])
+writeNumber(result[1])
+end
+
+        

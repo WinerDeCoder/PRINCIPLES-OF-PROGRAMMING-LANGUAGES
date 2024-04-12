@@ -1,0 +1,9 @@
+func main()
+        
+        func _vippro_(string _12a2) 
+        begin
+            x <- da_money_team(andree_right_hand)
+            foo()
+            
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(mainercanh), [VarDecl(Id(boollit), BoolType, None, None)], Return(Id(binzetdapoet)))])

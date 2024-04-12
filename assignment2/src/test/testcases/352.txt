@@ -1,0 +1,6 @@
+func main(bool a)
+        begin
+            a[1] <- foo([1111])
+            return _acs_1 + true
+        end
+        

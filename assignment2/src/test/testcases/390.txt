@@ -1,0 +1,14 @@
+func neural_network_forward(number x, number weight)
+begin
+    number result[10]
+    for i until x[-1] by 1
+    begin
+        for j until w[i,-1] by 1
+            begin
+                sum <- x[i] * w[i,j]
+                result[i] <- sum
+            end
+    end
+    return result
+end
+        

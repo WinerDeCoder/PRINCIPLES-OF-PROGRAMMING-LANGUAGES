@@ -1,0 +1,31 @@
+func length_array(number a)
+begin
+number i <-0
+number length <- 0
+for i until i > 99999 by 1
+    begin
+    if (a[i] == true)
+        length <- length +1
+    else break
+    end
+return length
+end
+
+func sum_of_array(number a)
+begin
+    number length <- length_array(a)
+    number i <-0
+    number sum <-0
+    for i until i >= length by 1
+            sum <- sum + a[i]
+    return sum
+end
+
+
+func main()
+begin
+number a[9] <- [1,2,3,4,5,6,7,8,9]
+writeNumber(sum_of_array(a))
+end
+
+        

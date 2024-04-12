@@ -1,0 +1,10 @@
+func main(number a)
+        begin
+        return 1
+        end
+        
+        func _vippro_() 
+        begin
+            x <- da_money_team()
+        end
+        

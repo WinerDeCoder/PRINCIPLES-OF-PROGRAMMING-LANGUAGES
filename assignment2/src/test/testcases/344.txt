@@ -1,0 +1,8 @@
+func main() return 12
+        
+        func _vippro_(string _12a2, number a[111]) 
+        begin
+            x <- da_money_team()
+            a[1] <- [1]
+        end
+        

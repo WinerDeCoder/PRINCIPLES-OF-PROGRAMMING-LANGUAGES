@@ -1,0 +1,16 @@
+string a <- "Hello World!" ## string a
+string c <- "My name is Phuc"  ## name
+string b <- "Nice to meet human" ## introduce
+string z[3] <- [a,b,c]  ## ##bii#
+func main() ###main
+  return writeString(z)
+
+func main()
+begin
+    bool a[22,2,3] <- [true,false,not true,true or false, 1 or 2, a+1=12]
+    bool b[2] <- a[a[a[a[main(a)]]]]
+    string c <- a[1] + b[2]
+    return c - main(h) * (1+2) /4 %2
+end
+
+        

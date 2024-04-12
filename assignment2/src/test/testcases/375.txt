@@ -1,0 +1,17 @@
+func main()
+func foo()
+func alo(number x) return 1
+var a <- main()
+dynamic a <-main
+number a[111] <- [1,23,foo(10)]
+func ri(string h) begin
+number r
+number s
+r <- 2.0
+number a[5]
+number b[5]
+s <- r * r * 3.14
+a[0] <- s
+end
+
+        

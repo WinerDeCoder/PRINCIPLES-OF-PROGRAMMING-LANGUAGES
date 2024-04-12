@@ -1,0 +1,8 @@
+string a <- "Hello World!" ## string a
+string c <- "My name is Phuc"  ## name
+string b <- "Nice to meet human" ## introduce
+string z[3] <- [a,b,c]  ## ##bii#
+func main() ###main
+  return writeString(z)
+
+        

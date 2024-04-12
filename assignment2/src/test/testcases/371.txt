@@ -1,0 +1,12 @@
+var a <- 3
+        dynamic b <- "111"
+        string c <-a
+        number h
+        func main(bool a)
+        begin
+            if (a+6 > 2/1)
+            a <- a+ 1
+            elif ( 4 != 2 )
+            return b+1
+        end
+        
